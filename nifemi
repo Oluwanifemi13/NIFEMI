@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Megafrost</title>
+</head>
+<body>
+    <section1>
+    <p>Home</p>
+    <p>About us</p>
+    <p>Catergory</p>
+    <p>Cart</p>
+    <p>Register</p>
+    <p>Login</p>
+    <p>X</p>
+    <h1>Chosing <br>Quality Food</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. <br> Alias beatae dolores qui non voluptatibus facere recusandae <br> mollitia obcaecati iste pariatur commodi fuga reiciendis aliquam iusto, <br> repellat vero est minus. Quidem.</p>
+    <button>Explore All></button>
+<div>
+    <img src="jollof rice.jfif" alt="jollof" width="300px" height="300px">  
+</div>
+<button>Order</button><button>+</button>
+    </section1>
+    <section2>
+<h1>DISCOVER</h1>
+<p>Our Featured Food</p>
+<p>See All Food-- ></p>
+<div><img src="breakfast.jfif" alt="" width="300px" height="300px">
+    <p>Random Fruit</p>
+    <p>Indian Mix</p>
+</div>
+<div><img src="dinner.jfif" alt="" width="300px" height="300px">
+    <p>Random Fruit</p>
+    <p>Indian Mix</p>
+    </div>
+    <div><img src="OIP (1).jfif" alt="" width="300px" height="300px">
+        <p>Random Fruit</p>
+        <p>Indian Mix</p>
+        </div>
+        <div><img src="lunch.jfif" alt="" width="300px" height="300px">
+            <p>Random Fruit</p>
+         <p>Indian Mix</p>
+    </div>
+    <div><img src="curry.jfif" alt="" width="300px" height="300px">
+    <p>Random Fruit</p>
+    <p>Indian Mix</p>
+    </div>
+    <div><img src="Food.jfif" alt="" width="300px" height="300px">
+    <p>Random Fruit</p>
+    <p>Indian Mix</p>
+    </div>
+    <div><img src="Fried-rice.webp" alt="" width="300px" height="300px">
+     <p>Random Fruit</p>
+     <p>Indian Mix</p>
+    </div>
+    <div><img src="OIP (4).jfif" alt="" width="300px" height="300px">
+    <p>Random Fruit</p>
+    <p>Indian Mix</p>
+    </div>
+    </section2>
+    <section3>
+    <h1>Explore more food with <br>our mobile app</h1>
+     <p>Get it on Google Play Download on the Apple <br> Store</p>
+     <div><img src="OIF.jfif" alt="" width="300px" height="500px">
+    </div>
+    </section3>
+    <section4>
+    <h1>Food's the most precious <br>things <br> all over the world</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos magnam quaerat, <br> facere veniam nostrum non, autem numquam maxime molestias recusandae sapiente <br> aut blanditiis adipisci consectetur, expedita laboriosam distinctio rem debitis?</p>
+    <button>Explore All></button>
+    <p>ExpediaDocoSignConcurOneLogin <br>New</p>
+    <h1>Book a Table</h1>
+    <div>
+        <label for="Date">Date</label>
+        <input type="Date"name="date"id="date">
+    </div>
+    <div>
+        <label for="Time">time</label>
+        <input type="Time"name="time"id="Time">
+    </div>
+    <div>
+        <label for="Guest Number">Guest Number</label>
+        <input type="guest number"name="guest number"id="guest number">
+    </div>
+    <div>
+        <button>Book Appointment</button>
+    </div>
+    <div>
+        <h4>Quick Link</h4>
+        <ul>
+            <li>Home</li>
+            <li>contact</li>
+            <li>register</li>
+            <li>about</li>
+            <li>Login</li>
+        </ul>
+        <h4>Quick Link</h4>
+        <ul>
+            <li>Home</li>
+            <li>contact</li>
+            <li>register</li>
+            <li>about</li>
+            <li>Login</li>
+        </ul>
+        <h4>Quick Link</h4>
+        <ul>
+            <li>Home</li>
+            <li>contact</li>
+            <li>register</li>
+            <li>about</li>
+            <li>Login</li>
+        </ul>
+        <h4>Quick Link</h4>
+        <ul>
+            <li>Home</li>
+            <li>contact</li>
+            <li>register</li>
+            <li>about</li>
+            <li>Login</li>
+    </div>
+
+
+
+
+
+    </section3>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
